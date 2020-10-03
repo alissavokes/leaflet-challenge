@@ -25,11 +25,12 @@ html {
   margin: 0;
   clear: both;
   list-style-type: none;
+  text-align: center;
 }
 
 .legend li {
   display: block;
-  width: 30px;
+  width: 90px;
   height: 22px;
 }
 
